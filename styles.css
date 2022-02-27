@@ -1,0 +1,39 @@
+body{
+	background-image: url('book-library-with-open-textbook.jpg');
+	background-size: cover;
+}
+.navbar{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	font-style: oblique;
+	color: #000;
+}
+table{
+    border: 10;
+	border-radius: 10px;
+	margin-top: 50px;
+	text-align: center;
+	background: #939b99;
+	color: rgb(10, 0, 0);
+}
+.data{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+}
+.display{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+}
+
+#page th, #page td{
+	padding: 20px;
+}
+
+#btna td input{
+	border-radius: 20px;
+	width: 100%;
+	height: 25px;
+}
